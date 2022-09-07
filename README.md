@@ -1,1 +1,1 @@
-#Esto es un texto con datos
+#Estamos trabajando en terminal GIT
